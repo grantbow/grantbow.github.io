@@ -3,4 +3,5 @@ title: grantbow
 Description: project updates
 markdown: kramdown
 google_analytics: UA-54108676-6
-
+plugins:
+  - jekyll-sitemap
